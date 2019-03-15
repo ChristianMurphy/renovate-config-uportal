@@ -9,6 +9,9 @@
   "gradle": {
     "enabled": true
   },
+  "maven": {
+    "enabled": true
+  },
   "renovateFork": true,
   "packageRules": [
     {
