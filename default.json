@@ -66,6 +66,12 @@
       "packagePatterns": [
         "^org.jasig.portlet.notification"
       ]
+    },
+    {
+      "packagePatterns": [
+        "^com.amazonaws"
+      ],
+      "schedule": "on Monday"
     }
   ]
 }
